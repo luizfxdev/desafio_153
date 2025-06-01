@@ -21,5 +21,7 @@ Saída: [8, 9]
 Tecnologias utilizadas neste desafio:
 
 🔧 HTML para a estrutura mágica
+
 🎨 Sass para um design responsivo e encantador
+
 🧠 JavaScript para aplicar a lógica e dar vida ao desafio
